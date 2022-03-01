@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/aresssoftwarepvtltd/ApazineRN-ContactUs-SupportEmailUpdate-Fix/node_modules/react-native-billing/android/build/intermediates/res/merged/release/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/aresssoftwarepvtltd/.gradle/caches/transforms-2/files-2.1/a7ea815d7fb95999054947db4d7a9817/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/aresssoftwarepvtltd/ApazineRN-ContactUs-SupportEmailUpdate-Fix/node_modules/react-native-billing/android/build/intermediates/res/merged/release/drawable-v21/abc_list_divider_material.xml",
+        "source": "/Users/aresssoftwarepvtltd/.gradle/caches/transforms-2/files-2.1/a7ea815d7fb95999054947db4d7a9817/res/drawable-v21/abc_list_divider_material.xml"
+    },
+    {
+        "merged": "/Users/aresssoftwarepvtltd/ApazineRN-ContactUs-SupportEmailUpdate-Fix/node_modules/react-native-billing/android/build/intermediates/res/merged/release/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/aresssoftwarepvtltd/.gradle/caches/transforms-2/files-2.1/a7ea815d7fb95999054947db4d7a9817/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/aresssoftwarepvtltd/ApazineRN-ContactUs-SupportEmailUpdate-Fix/node_modules/react-native-billing/android/build/intermediates/res/merged/release/drawable-v21/abc_dialog_material_background.xml",
+        "source": "/Users/aresssoftwarepvtltd/.gradle/caches/transforms-2/files-2.1/a7ea815d7fb95999054947db4d7a9817/res/drawable-v21/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/aresssoftwarepvtltd/ApazineRN-ContactUs-SupportEmailUpdate-Fix/node_modules/react-native-billing/android/build/intermediates/res/merged/release/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/aresssoftwarepvtltd/.gradle/caches/transforms-2/files-2.1/a7ea815d7fb95999054947db4d7a9817/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/aresssoftwarepvtltd/ApazineRN-ContactUs-SupportEmailUpdate-Fix/node_modules/react-native-billing/android/build/intermediates/res/merged/release/drawable-v21/notification_action_background.xml",
+        "source": "/Users/aresssoftwarepvtltd/.gradle/caches/transforms-2/files-2.1/4cf56f0fa64c59f621d5cdbd7b1954bc/res/drawable-v21/notification_action_background.xml"
+    }
+]

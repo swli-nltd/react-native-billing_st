@@ -1,0 +1,69 @@
+{
+  "_args": [
+    [
+      "react-native-billing_v3@4.0.0",
+      "/Users/liang/workspace/mobileapp3.0"
+    ]
+  ],
+  "_from": "react-native-billing_v3@4.0.0",
+  "_id": "react-native-billing_v3@4.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-9cMOXjeg6oRJXd+3WI7mfjo8NKfEpvJ644oXQXbnFFSL/9O2lZbV9BGaJx0VCBlEriz+noT8joA+g9iWjhAyeQ==",
+  "_location": "/react-native-billing_v3",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-billing_v3@4.0.0",
+    "name": "react-native-billing_v3",
+    "escapedName": "react-native-billing_v3",
+    "rawSpec": "4.0.0",
+    "saveSpec": null,
+    "fetchSpec": "4.0.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-billing_v3/-/react-native-billing_v3-4.0.0.tgz",
+  "_spec": "4.0.0",
+  "_where": "/Users/liang/workspace/mobileapp3.0",
+  "author": {
+    "name": "Idéhub AS"
+  },
+  "bugs": {
+    "url": "https://github.com/idehub/react-native-billing/issues"
+  },
+  "description": "React Native bridge for InApp Billing on Android",
+  "devDependencies": {
+    "dtslint": "^0.3.0"
+  },
+  "homepage": "https://github.com/idehub/react-native-billing#readme",
+  "keywords": [
+    "react",
+    "native",
+    "inapp",
+    "billing",
+    "purchase",
+    "react-native",
+    "android",
+    "bridge"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-billing_st",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/idehub/react-native-billing.git"
+  },
+  "rnpm": {
+    "android": {
+      "packageInstance": "new InAppBillingBridgePackage()"
+    }
+  },
+  "scripts": {
+    "dtslint": "dtslint types",
+    "test": "npm run dtslint"
+  },
+  "types": "./types/index.d.ts",
+  "version": "4.0.1"
+}

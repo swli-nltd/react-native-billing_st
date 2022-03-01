@@ -1,0 +1,34 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/aresssoftwarepvtltd/ApazineRN-ContactUs-SupportEmailUpdate-Fix/node_modules/react-native-billing/android/build/intermediates/res/merged/release/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/aresssoftwarepvtltd/.gradle/caches/transforms-2/files-2.1/a7ea815d7fb95999054947db4d7a9817/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/Users/aresssoftwarepvtltd/ApazineRN-ContactUs-SupportEmailUpdate-Fix/node_modules/react-native-billing/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-h720dp-v13/values-h720dp-v13.xml",
+            "map": [
+                {
+                    "source": "/Users/aresssoftwarepvtltd/.gradle/caches/transforms-2/files-2.1/a7ea815d7fb95999054947db4d7a9817/res/values-h720dp-v13/values-h720dp-v13.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "66",
+                        "endOffsets": "117"
+                    }
+                }
+            ]
+        }
+    ]
+}
