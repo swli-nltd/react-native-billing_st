@@ -26,7 +26,9 @@ public class InAppBillingBridgePackage implements ReactPackage {
     public List<NativeModule> createNativeModules(
             ReactApplicationContext reactContext) {
         List<NativeModule> modules = new ArrayList<>();
-        modules.add(new InAppBillingBridge(reactContext,"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuvz0Q0y0YzQ3y+QQaFXaZT2+wRhzYiXP6Ob4yHrhQKFis2jgIs2EIebIbQKGG1VtW8WMfcWRhRWR5SbdAM3kk0v3MQga/wUkDpEwXJfAQC670u3uTLBDvlo+QI0l4jwIHKmC/7nhY+f8ZA8iEUyrpFkhnWHVmCm9raQC5h3nldoeOQB4emUx6SB6IYDcseDkYUY/jh/2G8J3OcaMeHx6sfa8x7tpN1wi9ffW7hCceRJwPSUzW8ViWLLvm22CH6eVsc4g1j+8NkpnIrharluFojobfYCUXhhqaynP1fFaqe0C1aUp8g8huAG7Tviyfo2Yb6uKI1BJ68e1aXG3lhbaUwIDAQAB"));
+        modules.add(new InAppBillingBridge(reactContext,"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAycNn6gsfse+EqJ3lvmfy4YT0poXuJkdCeRdrhw3nxytGzIeqUktbPSECxZzvVfmU1nQjB5bhSPrvLS7qAglio+g3yuyDrC0lXiP0owAh1FZTlUy7+Bhw896gqC81WQB1R0P/uqGF2/NWPEdgZWkMGwjjR2bRCQooxNDXfKpbD/9dcaU5vA+zKhCMn/nA0v2nq13kDDdktIL2wdrlEyVAxJsdfLHep5vNzTSwdldcVS+hAkGktEocSMkNe5acTZCEsGz0EV+sIqf9ES9wVIJ9kHVs4nijOt+04/bixeCJP8oLTtd92JScd2LTctiHmOE6TBQzlpX7ZtqDm2I9+kL8kQIDAQAB"));
+
+        // modules.add(new InAppBillingBridge(reactContext,"MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAuvz0Q0y0YzQ3y+QQaFXaZT2+wRhzYiXP6Ob4yHrhQKFis2jgIs2EIebIbQKGG1VtW8WMfcWRhRWR5SbdAM3kk0v3MQga/wUkDpEwXJfAQC670u3uTLBDvlo+QI0l4jwIHKmC/7nhY+f8ZA8iEUyrpFkhnWHVmCm9raQC5h3nldoeOQB4emUx6SB6IYDcseDkYUY/jh/2G8J3OcaMeHx6sfa8x7tpN1wi9ffW7hCceRJwPSUzW8ViWLLvm22CH6eVsc4g1j+8NkpnIrharluFojobfYCUXhhqaynP1fFaqe0C1aUp8g8huAG7Tviyfo2Yb6uKI1BJ68e1aXG3lhbaUwIDAQAB"));
 //
 //        if (!_licenseKeySetInConstructor)
 //              	modules.add(new InAppBillingBridge(reactContext));
